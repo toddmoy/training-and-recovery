@@ -1,31 +1,101 @@
 @import "settings";
 @import "foundation.scss";
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic);
 
+$header-font-family: 'Roboto', sans-serif;
+$body-font-family: 'Roboto', sans-serif;
 
-header {
-  @include grid-row;
+body {
+  background-color: rgba(243, 242, 235, 0.21);
+  font-family: $body-font-family;
+}
 
-  .logo  { @include grid-column($columns:3, $center:true); }
-  padding-bottom: em-calc(10px);
+.global-header {
+  background-color: white;
+  margin-bottom: 4rem;
+  border-bottom: solid 1px #efefef;
+  text-align: center;
+  padding: 3rem 1.3rem;
+  #site-icon {
+    -webkit-transform: scale(0.5);
+    -ms-transform: scale(0.5);
+    transform: scale(0.5);
+    path {
+      fill: #27ae60;
+    }
+  }
+  .site-title {
+    font-weight: normal;
+    font-size: 1.3rem;
+    padding-top: .3rem;
+    color: #27ae60;
+    margin: 0;
+    font-family: $header-font-family;
+  }
+}
 
+.global-footer {
+  @extend .row;
+  & > div {
+    @extend .columns;
+    text-align: center;
+    padding: 1.3rem 1.3rem 2.6rem 1.3rem;
+    color: #ccc;
+  }
+}
+
+.stream {
+  @extend .columns;
+}
+
+.post {
+  //@extend .row;
+  margin-bottom: 2rem;
+  @extend .clearfix;
+}
+
+.post__title {
+  color: #aaa;
+  font-size: 1rem;
+}
+
+.post__date {
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: $header-font-family;
 }
 
 
-.main-content {
-  @include grid-row;
-
-  aside  {
-    @include grid-column($columns:6);
-    // @media #{$medium-up} {
-    //   @include grid-column($columns:3);
-    // }
+.post__body {
+  @extend .columns;
+  @extend .large-8;
+  iframe {
+    width: 100%;
+    margin-bottom: 1.3rem;
   }
+}
 
-  article  {
-    @include grid-column($columns:6);
-    // @media #{$medium-up} {
-    //   @include grid-column($columns:8, $offset: 1);
-    // }
-  }
+.post__meta {
+  @extend .columns;
+  @extend .large-4;
+  font-family: $body-font-family;
+  margin-bottom: 0.5rem;
+  font-size: 0.8rem;
+}
 
+/**
+ * Note: I have omitted any vendor-prefixes for clarity.
+ * Adding them is left as an exercise for the reader.
+ */
+.headroom {
+    -webkit-transition: transform 200ms linear;
+    transition: transform 200ms linear;
+}
+.headroom--pinned {
+    -webkit-transition: transform 200ms linear;
+    transform: translateY(0%);
+}
+.headroom--unpinned {
+    -webkit-transition: transform 200ms linear;
+    transform: translateY(-100%);
 }
