@@ -1,0 +1,113 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title></title>
+
+    <link href="/stylesheets/app.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/style.css" media="screen" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/modernizr.js" type="text/javascript"></script>
+  </head>
+
+  <body class="bower_components bower_components_jquery-placeholder bower_components_jquery-placeholder_README">
+
+    <header class="global-header">
+      <svg version="1.1" id="site-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 16 16" xml:space="preserve" fill="#000000"> <path d="M 45.363,4.032C 44.355,3.351, 43.185,3.00, 42.00,3.00 c-0.753,0.00-1.509,0.144-2.229,0.432l-15.00,6.00C 24.489,9.543, 24.258,9.729, 24.00,9.882c-0.258-0.153-0.489-0.339-0.771-0.45l-15.00-6.00 C 7.509,3.144, 6.753,3.00, 6.00,3.00C 4.818,3.00, 3.642,3.351, 2.637,4.032C 0.987,5.148,0.00,7.008,0.00,9.00l0.00,27.00 c0.00,2.451, 1.494,4.662, 3.771,5.571l 15.00,6.00 C 19.491,47.859, 20.247,48.00, 21.00,48.00c 1.05,0.00, 2.073-0.318, 3.00-0.858C 24.927,47.682, 25.95,48.00, 27.00,48.00c 0.753,0.00, 1.509-0.141, 2.229-0.429l 15.00-6.00 C 46.506,40.662, 48.00,38.451, 48.00,36.00L48.00,9.00 C 48.00,7.008, 47.013,5.148, 45.363,4.032z M 21.00,42.00l-15.00-6.00L6.00,9.00 l 15.00,6.00L21.00,42.00 z M 42.00,36.00l-15.00,6.00L27.00,15.00 l 15.00-6.00L42.00,36.00 z M 18.00,16.80L 9.00,13.20 l0.00,3.00 L 18.00,19.80L18.00,16.80 z M 18.00,22.80L 9.00,19.20l0.00,3.00 L 18.00,25.80L18.00,22.80 z M 18.00,28.80L 9.00,25.20l0.00,3.00 L 18.00,31.80L18.00,28.80 z M 18.00,34.80L 9.00,31.20l0.00,3.00 L 18.00,37.80L18.00,34.80 z M 39.00,31.20L 30.00,34.80l0.00,3.00 l 9.00-3.597 L39.00,31.20 z M 39.00,25.20L 30.00,28.80l0.00,3.00 L 39.00,28.20L39.00,25.20 z M 39.00,19.20L 30.00,22.80l0.00,3.00 L 39.00,22.20L39.00,19.20 z M 39.00,13.20L 30.00,16.80l0.00,3.00 L 39.00,16.20L39.00,13.20 z" ></path></svg>
+      <h1 class="site-title">Training &amp; Recovery</h1>
+    </header>
+
+    <div id="main" role="main">
+      <h1 id="html5-placeholder-jquery-plugin">HTML5 Placeholder jQuery Plugin</h1>
+
+<h2 id="demo--examples">Demo &amp; Examples</h2>
+
+<p><a href="http://mathiasbynens.be/demo/placeholder">http://mathiasbynens.be/demo/placeholder</a></p>
+
+<h2 id="example-usage">Example Usage</h2>
+
+<h3 id="html">HTML</h3>
+
+<p><code>html
+&lt;input type="text" name="name" placeholder="e.g. John Doe"&gt;
+&lt;input type="email" name="email" placeholder="e.g. address@example.ext"&gt;
+&lt;input type="url" name="url" placeholder="e.g. http://mathiasbynens.be/"&gt;
+&lt;input type="tel" name="tel" placeholder="e.g. +32 472 77 69 88"&gt;
+&lt;input type="password" name="password" placeholder="e.g. h4x0rpr00fz"&gt;
+&lt;input type="search" name="search" placeholder="Search this site…"&gt;
+&lt;textarea name="message" placeholder="Your message goes here"&gt;&lt;/textarea&gt;
+</code></p>
+
+<h3 id="jquery">jQuery</h3>
+
+<p>Use the plugin as follows:</p>
+
+<p><code>js
+$('input, textarea').placeholder();
+</code></p>
+
+<p>You’ll still be able to use <code>jQuery#val()</code> to get and set the input values. If the element is currently showing a placeholder, <code>.val()</code> will return an empty string instead of the placeholder text, just like it does in browsers with a native <code>@placeholder</code> implementation. Calling <code>.val('')</code> to set an element’s value to the empty string will result in the placeholder text (re)appearing.</p>
+
+<h3 id="css">CSS</h3>
+
+<p>The plugin automatically adds <code>class="placeholder"</code> to the elements who are currently showing their placeholder text. You can use this to style placeholder text differently:</p>
+
+<p><code>css
+input, textarea { color: #000; }
+.placeholder { color: #aaa; }
+</code></p>
+
+<p>I’d suggest sticking to the <code>#aaa</code> color for placeholder text, as it’s the default in most browsers that support <code>@placeholder</code>. If you really want to, though, you can <a href="http://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css/2610741#2610741">style the placeholder text in some of the browsers that natively support it</a>.</p>
+
+<h2 id="installation">Installation</h2>
+
+<p>You can install jquery-placeholder by using <a href="http://bower.io">Bower</a>.</p>
+
+<p><code>bash
+bower install jquery-placeholder
+</code></p>
+
+<h2 id="notes">Notes</h2>
+
+<ul>
+  <li>Requires jQuery 1.6+. For an older version of this plugin that works under jQuery 1.4.2+, see <a href="https://github.com/mathiasbynens/jquery-placeholder/tree/v1.8.7">v1.8.7</a>.</li>
+  <li>Works in all A-grade browsers, including IE6.</li>
+  <li>Automatically checks if the browser natively supports the HTML5 <code>placeholder</code> attribute for <code>input</code> and <code>textarea</code> elements. If this is the case, the plugin won’t do anything. If <code>@placeholder</code> is only supported for <code>input</code> elements, the plugin will leave those alone and apply to <code>textarea</code>s exclusively. (This is the case for Safari 4, Opera 11.00, and possibly other browsers.)</li>
+  <li>Caches the results of its two feature tests in <code>jQuery.fn.placeholder.input</code> and <code>jQuery.fn.placeholder.textarea</code>. For example, if <code>@placeholder</code> is natively supported for <code>input</code> elements, <code>jQuery.fn.placeholder.input</code> will be <code>true</code>. After loading the plugin, you can re-use these properties in your own code.</li>
+  <li>
+    <p>Makes sure it never causes duplicate IDs in your DOM, even in browsers that need an extra <code>input</code> element to fake <code>@placeholder</code> for password inputs. This means you can safely do stuff like:</p>
+
+    <p><code>html
+  &lt;label for="bar"&gt;Example label&lt;/label&gt;
+  &lt;input type="password" placeholder="foo" id="bar"&gt;
+ </code></p>
+
+    <p>And the <code>&lt;label&gt;</code> will always point to the <code>&lt;input&gt;</code> element you’d expect. Also, all CSS styles based on the ID will just work™.</p>
+  </li>
+</ul>
+
+<h2 id="license">License</h2>
+
+<p>This plugin is available under <a href="http://mths.be/mit">the MIT license</a>.</p>
+
+<h2 id="thanks-to">Thanks to…</h2>
+
+<ul>
+  <li><a href="http://paulirish.com/">Paul Irish</a> for his inspiring snippet in <a href="http://jquery14.com/day-05/jquery-1-4-hawtness-1-with-paul-irish">jQuery 1.4 Hawtness #1</a></li>
+  <li>everyone from <a href="http://webchat.freenode.net/?channels=jquery">#jquery</a> for the tips, ideas and patches</li>
+  <li>temp01 for his major contributions</li>
+  <li>anyone who <a href="https://github.com/mathiasbynens/jquery-placeholder/contributors">contributed a patch</a> or <a href="https://github.com/mathiasbynens/jquery-placeholder/issues">made a helpful suggestion</a></li>
+</ul>
+
+<p><em>– <a href="http://mathiasbynens.be/">Mathias</a></em></p>
+
+    </div>
+
+    <footer class="global-footer">
+      <div>Powered by Middleman. Written by me.</div>
+    </footer>
+
+    <script src="/javascripts/all.js" type="text/javascript"></script>
+  </body>
+</html>
