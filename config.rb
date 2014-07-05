@@ -111,12 +111,13 @@ configure :build do
   # activate :relative_assets
 
   # Or use a different image path
-  # set :http_prefix, "/Content/images/"
+  set :http_prefix, "training-and-recovery" # This should match the repo name if deploying to gh-pages
 end
 
 activate :deploy do |deploy|
   deploy.build_before = true # default: false
-    # Optional Settings
+  deploy.method = :git
+  # Optional Settings
   # deploy.remote   = "custom-remote" # remote name or git url, default: origin
   # deploy.branch   = "custom-branch" # default: gh-pages
   # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
