@@ -5,9 +5,21 @@
 $header-font-family: 'Roboto', sans-serif;
 $body-font-family: 'Roboto', sans-serif;
 
+$accent-color: #248F8D;
+
 body {
-  background-color: rgba(243, 242, 235, 0.21);
+  background-color: #FCFEF5;
   font-family: $body-font-family;
+  color: #30261C;
+}
+
+a {
+  color: $accent-color;
+  border-bottom: solid #ddd 1px;
+  & :hover {
+    color: darken($accent-color, 50%);
+    border-bottom: darken($accent-color, 50%);
+  }
 }
 
 .global-header {
@@ -21,14 +33,14 @@ body {
     -ms-transform: scale(0.5);
     transform: scale(0.5);
     path {
-      fill: #27ae60;
+      fill: $accent-color;
     }
   }
   .site-title {
     font-weight: normal;
     font-size: 1.3rem;
     padding-top: .3rem;
-    color: #27ae60;
+    color: $accent-color;
     margin: 0;
     font-family: $header-font-family;
   }
@@ -55,7 +67,7 @@ body {
 }
 
 .post__title {
-  color: #aaa;
+  color: #CDCFB7;
   font-size: 1rem;
 }
 
@@ -63,6 +75,7 @@ body {
   font-size: 1.3rem;
   font-weight: bold;
   font-family: $header-font-family;
+  color: #403831;
 }
 
 
