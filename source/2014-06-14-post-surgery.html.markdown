@@ -1,7 +1,7 @@
 ---
 title: First day after surgery
 date: 2014-06-14 14:34 UTC
-tags: checkup, -
+tags: checkup
 ---
 
 ![ankle in cast](cast.jpg)

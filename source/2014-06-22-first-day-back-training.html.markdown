@@ -1,7 +1,7 @@
 ---
 title: First day back training
 date: 2014-06-22 16:07 UTC
-tags: workout, motivation, +
+tags: workout, motivation
 ---
 
 It's kind of hard to call it training at all, but at least I'm getting some exercise.

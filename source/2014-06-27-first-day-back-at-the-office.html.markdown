@@ -1,7 +1,7 @@
 ---
 title: First day back in the office
 date: 2014-06-27 16:20 UTC
-tags: motivation, +, -
+tags: motivation
 ---
 
 After working from home since Monday, I made my first trip back into the office.

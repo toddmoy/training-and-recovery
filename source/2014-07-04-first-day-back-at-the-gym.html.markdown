@@ -1,7 +1,7 @@
 ---
 title: First day back at the gym
 date: 2014-07-04 19:52 UTC
-tags: workout, +
+tags: workout
 ---
 
 Oh man! I thawed my membership at [TRC](http://trianglerockclub.com) and went in for a solid hangboard session. It's amazing how much more fun and motivating it is to train in a gym compared to at home. The environment just seems more conducive to trying hard and staying psyched.

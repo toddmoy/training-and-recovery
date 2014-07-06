@@ -1,7 +1,7 @@
 ---
 title: Fred Nicole
 date: 2014-07-06 00:37 UTC
-tags: workout, motivation, +
+tags: workout, motivation
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/hkEj7UbT1Cg?rel=0" frameborder="0" allowfullscreen></iframe>
