@@ -4,7 +4,7 @@ date: 2014-07-06 16:26 UTC
 tags: planning
 ---
 
-My copy of RCTP is in the mail, but I can't wait. To get a head start, I'm acquainting myself with some of the concepts Mark outlines on his blog. Here's my notes:
+My copy of RCTM / RPTP is in the mail, but I can't wait. To get a head start, I'm acquainting myself with some of the concepts Mark outlines on his blog. Here's my notes:
 
 * **Periodization** - Scheduling different phases of training to reach a performance peak at a predetermined time.
   * The RPTP is three-to-four months long, which leads to three-to-four cycles per year.
