@@ -73,7 +73,6 @@ a {
 }
 
 .post__title {
-  color: $accent-color-2;
   font-size: 1rem;
 }
 
@@ -84,6 +83,9 @@ a {
   color: #403831;
 }
 
+.post__tags {
+  color: $accent-color-2;
+}
 
 .post__body {
   @extend .columns;
