@@ -1,10 +1,10 @@
 ---
-title: training-prep
+title: Training Prep
 date: 2014-07-06 16:26 UTC
-tags: planning
+tags: planning, workout
 ---
 
-My copy of RCTM / RPTP is in the mail, but I can't wait. To get a head start, I'm acquainting myself with some of the concepts Mark outlines on his blog. Here's my notes:
+My copy of RCTM / RPTP is in the mail, but I can't wait. To get a head start, I'm acquainting myself with some of the concepts that Mark outlines on his blog. Here are my notes:
 
 * **Periodization** - Scheduling different phases of training to reach a performance peak at a predetermined time.
   * The RPTP is three-to-four months long, which leads to three-to-four cycles per year.
@@ -31,3 +31,5 @@ My copy of RCTM / RPTP is in the mail, but I can't wait. To get a head start, I'
   * Increases intramuscular coordination and spatial awareness.
   * Two fundamental exercises: limit bouldering and campusing.
   * Number of repetitions is small but intensity is high.  
+
+Later today I hit up TRC for a bit more hangboarding. 
