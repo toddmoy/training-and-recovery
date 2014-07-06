@@ -1,7 +1,7 @@
 ---
 title: Feeling better
 date: 2014-06-15 15:24 UTC
-tags:
+tags: motivation, +
 ---
 
 Feeling way better today; I actually slept well last night. Got up and made Wendy and I some breakfast.

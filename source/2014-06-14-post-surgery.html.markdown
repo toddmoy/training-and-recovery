@@ -1,10 +1,10 @@
 ---
 title: First day after surgery
 date: 2014-06-14 14:34 UTC
-tags:
+tags: checkup, -
 ---
 
-![](cast.jpg)
+![ankle in cast](cast.jpg)
 
 This is my first day post-surgery. Damn this hurts like hell.  I only slept a few hours last night, even with a butt load of pain killers.
 

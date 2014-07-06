@@ -1,7 +1,7 @@
 ---
 title: No excuses
 date: 2014-06-28 16:33 UTC
-tags:
+tags: motivation, +, workout
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Csmw3IcL0gw?rel=0" frameborder="0" allowfullscreen></iframe>

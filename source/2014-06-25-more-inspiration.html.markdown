@@ -1,7 +1,7 @@
 ---
 title: More inspiration
 date: 2014-06-25 16:16 UTC
-tags:
+tags: motivation, +
 ---
 
 Watching this video of Kev Shields, a climber who busted his ankle up bad and had an ankle fusion. Took him 5 years to get back to climbing E7 (.13a - .13c).

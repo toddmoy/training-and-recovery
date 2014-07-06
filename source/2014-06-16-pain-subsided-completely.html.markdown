@@ -1,7 +1,7 @@
 ---
 title: Pain subsides completely
 date: 2014-06-16 15:28 UTC
-tags:
+tags: motivation, +
 ---
 
 Feeling good again; no real pain at all. I haven't gone stir-crazy yet, but I'm fast-tracking my way there. I really want to start exercising, but I should settle down and hold off. It's only been a few days since surgery.

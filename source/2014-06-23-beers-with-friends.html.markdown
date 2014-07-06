@@ -1,7 +1,7 @@
 ---
 title: First day back at work
 date: 2014-06-23 16:13 UTC
-tags:
+tags: +, -
 ---
 
 I started back at work today, albeit from the comfort of my couch. I could have started last week with no issues, but I figured taking a staycation would be good for my soul.
