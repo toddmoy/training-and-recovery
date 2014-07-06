@@ -8,7 +8,12 @@ pageable: false
   <% page_articles.each_with_index do |article, i| %>
     <article class="post">
       <div class="post__meta">
-        <div class="post__date"><%= elapsed_days("2014-06-01", article.date.to_s) %> days</div>
+
+        <div class="post__date">
+          <span data-tooltip class="has-tip tip-right" data-options="show_on:large" title="<%= article.date.strftime('%B %e, %Y') %>">
+          <%= elapsed_days("2014-06-01", article.date.to_s) %> days
+          </span>
+        </div>
         <h2 class="post__title"><%= article.title %></h2>
         <ul class="post__tags">
           <% article.tags.each do |tag| %><li><%= tag %></li><% end %>
