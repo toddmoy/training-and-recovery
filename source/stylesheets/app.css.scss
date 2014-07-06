@@ -6,19 +6,25 @@ $header-font-family: 'Roboto', sans-serif;
 $body-font-family: 'Roboto', sans-serif;
 
 $accent-color: #248F8D;
+$accent-color-2: #CDCFB7;
+$body-text-color: #30261C;
 
 body {
   background-color: #FCFEF5;
   font-family: $body-font-family;
-  color: #30261C;
+  color: $body-text-color;
 }
 
 a {
   color: $accent-color;
   border-bottom: solid #ddd 1px;
+  display: inline-block;
   & :hover {
     color: darken($accent-color, 50%);
     border-bottom: darken($accent-color, 50%);
+  }
+  & :active {
+    -webkit-transform: translateY(1px);
   }
 }
 
@@ -67,7 +73,7 @@ a {
 }
 
 .post__title {
-  color: #CDCFB7;
+  color: $accent-color-2;
   font-size: 1rem;
 }
 
