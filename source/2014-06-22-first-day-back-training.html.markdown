@@ -13,4 +13,4 @@ Aside from this, I’ve been using [Lift.do](http://lift.do) to keep track of my
 
 Unrelated, WTF is up with my skin? It's super dry and flaking off. So much for the callouses. I'm not sure if this is due to painkillers or what; it's not my soap, I don't think.
 
-![scaly skin](images/skin.jpg)
+![scaly skin](skin.jpg)
