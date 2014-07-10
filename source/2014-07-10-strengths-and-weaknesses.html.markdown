@@ -23,3 +23,15 @@ When I started training at Progression a few months back, I went through the pro
   * Don't piece routes together.
   * Often go into auto-pilot and don't think deeply about what's happening.
   * Don't trust feet enough.
+  * Work grades that are too hard, minimizing time spent getting better.
+    * Conversely, in sport climbing, I don't try hard enough routes as frequently.
+
+  With these in mind, some activities to remember include:
+
+  1. Try the same route with intentionally different beta.
+  1. Climb routes repeatedly to perfection.
+  1. Focus on optimizing time on the wall.
+  1. Train power endurance more intentionally.
+  1. Break down problems and work moves independently.
+  1. Climb more slab.
+  1. Keep track of my climbing pyramid.
