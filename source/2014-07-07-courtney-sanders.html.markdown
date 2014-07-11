@@ -10,8 +10,8 @@ Came across this video of Courtney Sanders who was training while injured.
 
 In other news, I pulled off my adhesives that held together my incision after surgery. I collect scars like others collect tattoos.
 
-![scars](stitches.jpg)
+<img src="images/placeholder.svg" data-src="images/stitches.jpg" alt="My stitches" />
 
 I also received my copy (cough textbook) of The Rockclimber's Training Manual. I spent a little time poring over this tonight with a glass of wine. My kind of training. Hey, today's a rest day after all.
 
-![Rockclimber's Training Manual](RCTM.jpg)
+<img src="images/placeholder.svg" data-src="images/RCTM.jpg" alt="Rock Climbers Training Manual" />

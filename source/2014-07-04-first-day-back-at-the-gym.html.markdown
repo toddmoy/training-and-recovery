@@ -10,4 +10,4 @@ I went through an ad hoc series of drills, mostly focused around pyramids on the
 
 This visit today reinvigorated me. I feel like I will be able to get strong while I recuperate. I can't wait for my [training manual](http://rockclimberstrainingmanual.com/) to get here!
 
-![Hangboards at Triangle Rock Club](trc-hangboards.jpg)
+<img src="images/placeholder.svg" data-src="images/trc-hangboards.jpg" alt="Hangboards at TRC" />

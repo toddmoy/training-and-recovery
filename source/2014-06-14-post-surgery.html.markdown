@@ -4,7 +4,7 @@ date: 2014-06-14 14:34 UTC
 tags: checkup
 ---
 
-![ankle in cast](cast.jpg)
+<img src="images/placeholder.svg" data-src="images/cast.jpg" alt="Ankle in cast" />
 
 This is my first day post-surgery. Damn this hurts like hell.  I only slept a few hours last night, even with a butt load of pain killers.
 
