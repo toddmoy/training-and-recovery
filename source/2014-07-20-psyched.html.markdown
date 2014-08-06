@@ -1,5 +1,5 @@
 ---
-title: psyched
+title: Psyched
 date: 2014-07-20 03:12 UTC
 tags: workout, motivation, psyche
 ---

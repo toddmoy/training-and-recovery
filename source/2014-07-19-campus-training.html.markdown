@@ -1,5 +1,5 @@
 ---
-title: campus-training
+title: Campus training
 date: 2014-07-19 15:09 UTC
 tags: motivation
 ---
