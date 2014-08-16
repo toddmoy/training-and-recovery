@@ -64,6 +64,8 @@ a {
 
 .stream {
   @extend .columns;
+  @extend .large-9;
+  @extend .large-centered;
 }
 
 .post {
@@ -72,9 +74,9 @@ a {
   @extend .clearfix;
 }
 
-.post__title {
-  font-size: 1rem;
-}
+// .post__title {
+//  font-size: 1rem;
+//}
 
 .post__date {
   font-size: 1.2rem;
@@ -83,13 +85,13 @@ a {
   color: #403831;
 }
 
-.post__tags {
-  color: $accent-color-2;
-}
+// .post__tags {
+//  color: $accent-color-2;
+// }
 
 .post__body {
   @extend .columns;
-  @extend .large-8;
+  @extend .large-10;
   iframe {
     width: 100%;
     margin-bottom: 1.3rem;
@@ -101,8 +103,13 @@ a {
 
 .post__meta {
   @extend .columns;
-  @extend .large-4;
+  @extend .large-2;
   font-family: $body-font-family;
   margin-bottom: 0.5rem;
   font-size: 0.8rem;
+  text-align: left;
+}
+
+.has-tip {
+  border-bottom: none;
 }
