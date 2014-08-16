@@ -77,7 +77,7 @@ a {
 }
 
 .post__date {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: bold;
   font-family: $header-font-family;
   color: #403831;
@@ -93,6 +93,9 @@ a {
   iframe {
     width: 100%;
     margin-bottom: 1.3rem;
+  }
+  * {
+    font-size: 1.2rem;
   }
 }
 
