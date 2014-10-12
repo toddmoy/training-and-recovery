@@ -4,7 +4,7 @@ date: 2014-10-12 20:30 UTC
 tags:
 ---
 
-Another 12 down. All total, it took three tries. I went in with that goal in mind and took it down immediately. 
+Another 12 down. All total, it took three tries in three sessions. I went in with the goal of taking it down and sent it immediately.
 
 After that, I one-hung a few other 12s. All seemed doable, but I just needed to suss out the moves better. In one case, a draw got hung on my harness and caused me to stop. Feels good man.
 
