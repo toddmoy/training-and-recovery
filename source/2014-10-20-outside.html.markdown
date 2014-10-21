@@ -20,6 +20,4 @@ Being outside was so good. It reminded me that there's so much more to climbing 
 
 I think I'm on the way back to them. 
 
-![Clear Creek Canyon outside of Golden, CO](images/clear-creek.jpg)
-
-
+<img src="images/placeholder.svg" data-src="images/clear-creek.jpg" alt="Clear Creek Canyon outside of Golden, CO" />
